@@ -1,0 +1,14 @@
+C:\Users\Leoni\source\repos\FactoryMethotd\FactoryMethotd\bin\Debug\netcoreapp3.1\FactoryMethotd.exe
+C:\Users\Leoni\source\repos\FactoryMethotd\FactoryMethotd\bin\Debug\netcoreapp3.1\FactoryMethotd.deps.json
+C:\Users\Leoni\source\repos\FactoryMethotd\FactoryMethotd\bin\Debug\netcoreapp3.1\FactoryMethotd.runtimeconfig.json
+C:\Users\Leoni\source\repos\FactoryMethotd\FactoryMethotd\bin\Debug\netcoreapp3.1\FactoryMethotd.runtimeconfig.dev.json
+C:\Users\Leoni\source\repos\FactoryMethotd\FactoryMethotd\bin\Debug\netcoreapp3.1\FactoryMethotd.dll
+C:\Users\Leoni\source\repos\FactoryMethotd\FactoryMethotd\bin\Debug\netcoreapp3.1\FactoryMethotd.pdb
+C:\Users\Leoni\source\repos\FactoryMethotd\FactoryMethotd\obj\Debug\netcoreapp3.1\FactoryMethotd.csproj.AssemblyReference.cache
+C:\Users\Leoni\source\repos\FactoryMethotd\FactoryMethotd\obj\Debug\netcoreapp3.1\FactoryMethotd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leoni\source\repos\FactoryMethotd\FactoryMethotd\obj\Debug\netcoreapp3.1\FactoryMethotd.AssemblyInfoInputs.cache
+C:\Users\Leoni\source\repos\FactoryMethotd\FactoryMethotd\obj\Debug\netcoreapp3.1\FactoryMethotd.AssemblyInfo.cs
+C:\Users\Leoni\source\repos\FactoryMethotd\FactoryMethotd\obj\Debug\netcoreapp3.1\FactoryMethotd.csproj.CoreCompileInputs.cache
+C:\Users\Leoni\source\repos\FactoryMethotd\FactoryMethotd\obj\Debug\netcoreapp3.1\FactoryMethotd.dll
+C:\Users\Leoni\source\repos\FactoryMethotd\FactoryMethotd\obj\Debug\netcoreapp3.1\FactoryMethotd.pdb
+C:\Users\Leoni\source\repos\FactoryMethotd\FactoryMethotd\obj\Debug\netcoreapp3.1\FactoryMethotd.genruntimeconfig.cache
